@@ -1,2 +1,5 @@
 # youtube-downloader
-Yes.
+Need Install:
+`winget install yt-dlp`
+`winget install ffmpeg`.
+Made with AI and Human
